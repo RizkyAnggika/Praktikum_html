@@ -1,0 +1,49 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: whitesmoke;
+    padding: 5px;
+}
+
+table, th, td {
+    border: 1px solid;
+    margin: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 97%;
+}
+
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+th{
+    padding: 8px;
+    text-align: center;
+ }
+
+ul.a {
+    list-style-type: circle;
+}
+  
+tr:hover {background-color: whitesmoke;}
+
+img{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border: ipx solid black;
+}
+
+a[target] {
+    background-color: yellow;
+}
